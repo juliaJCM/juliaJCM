@@ -1,4 +1,8 @@
-## Júlia Claudino Miranda, desenvolvedora fullstack e apaixonada por programação!
+## Olá, você está vendo o perfil da Júlia! :stuck_out_tongue_winking_eye:
+### Qualidades: 
+- :computer: Amante da programação
+- :thought_balloon: Sempre disposta a aprender coisas novas 
+- :kissing_cat: Mãe de gatos
 <div align="center">
   <a href="https://github.com/juliaJCM">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juliaJCM&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -9,9 +13,11 @@
   <img align="center" alt="Julia-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Julia-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Julia-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="Julia-Banco de Dados" height="30" width="40" src="https://github.com/AnnaLutw/AnnaLutw/blob/main/workflows/iconBandoDeDados.png">
+  <img align="center" alt="Julia-Banco de Dados" height="30" width="40" src="https://github.com/juliaJCM/juliaJCM/blob/main/workflows/iconBandoDeDados.png">
   <img align="right" alt="Julia-pic" height="150" style="border-radius:100px;" src="">
 </div>
+  
+  ![Snake animation](https://github.com/juliaJCM/juliaJCM/blob/output/github-contribution-grid-snake.svg)
   
   ## Redes Sociais
  
