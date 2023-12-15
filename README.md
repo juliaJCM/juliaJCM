@@ -3,8 +3,10 @@
 
 <p align="center"> :thought_balloon: I'm a very creative girl who is always willing to learn something new in the IT field <br><br> The technology industry is constantly evolving, as we are faced with new ventures and updates being released every day. There is always something new to discover, endless news to research, and countless projects to create! This makes the lives of technology enthusiasts much more exciting, don't you agree?</p>&nbsp;
 
+<p></p>
+
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=rafaelalexandrino&theme=radical&mode=weekly" />
+<img width=55% align="center" src="https://github-readme-stats.vercel.app/api?username=Julia&show_icons=true&theme=radical&"/>
 <img width=40% align="center" src="https://github-readme-stats-git-main-julias-projects-75c11bf1.vercel.app/api/top-langs/?username=julia&show_icons=true&theme=radical&layout=compact"/>
 </div> &nbsp; &nbsp;
 
