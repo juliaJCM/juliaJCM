@@ -1,6 +1,5 @@
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/juliaJCM/juliaJCM/assets/102470780/dcd816ba-55f5-4676-b1d4-905e94a3d993" />
+<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/juliaJCM/juliaJCM/assets/102470780/941c34e6-257f-4db1-9f2a-51fa6e070f32" />
 &nbsp;&nbsp;&nbsp;
-
 
 <p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Flask to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
 
