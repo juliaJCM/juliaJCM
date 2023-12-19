@@ -1,7 +1,9 @@
 <img align="center" style="margin-bottom:100px" width=100% src="https://github.com/juliaJCM/juliaJCM/assets/102470780/941c34e6-257f-4db1-9f2a-51fa6e070f32" />
 &nbsp;&nbsp;&nbsp;
 
-<p align="center"> :thought_balloon: I'm a very creative girl who is always willing to learn something new in the IT field <br><br> The technology industry is constantly evolving, as we are faced with new ventures and updates being released every day. There is always something new to discover, endless news to research, and countless projects to create! This makes the lives of technology enthusiasts much more exciting, don't you agree?</p>&nbsp;
+<p align="center"> <img src="https://github.com/juliaJCM/juliaJCM/assets/102470780/406d2e9a-ed42-490f-8505-28e2ba06ba6c" width="120"/>
+
+<p align="center"> :thought_balloon: I'm a very creative girl who is always willing to learn something new in the IT field <br><br> The technology industry is constantly evolving, as we are faced with new ventures and updates being released every day. There is always something new to discover, endless news to research, and countless projects to create! This makes the lives of technology enthusiasts much more exciting, don't you agree?</p> &nbsp;
 
 <p></p>
 
